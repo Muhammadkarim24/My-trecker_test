@@ -1,0 +1,8 @@
+__pycache__/
+api_token.py
+
+tracker.db
+env/
+.vscode/
+.idea/
+*.pyc
